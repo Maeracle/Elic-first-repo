@@ -1,3 +1,6 @@
 Adios amigoss
 sakto ba?
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7b8ef6389e7f164c1bbe1256d349411bef715ba5
